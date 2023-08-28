@@ -9,4 +9,4 @@ This is a repository for publishing paper, "Finding a Needle in a Haystack- Homo
 - network_board+comment.csv : Relationship data between post authors and commenters
 - user_attribute.csv : User attributes data
 
-All properties are coded non-identifying. If necessary, we will consider providing it upon request.
+All properties are coded non-identifying. If necessary, we will consider providing it upon request. Thanks :)
